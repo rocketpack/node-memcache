@@ -6,9 +6,6 @@
   "repository": "git://github.com/elbart/node-memcache.git",
   "author": "Tim Eggert <tim@elbart.com>",
   "main": "./lib/memcache",
-  "dependencies": {
-    "expresso": ">=0.7.0"
-  },
   "directories": {
     "lib": "lib",
     "test": "test"
